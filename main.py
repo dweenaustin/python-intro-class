@@ -5,7 +5,7 @@
 # examines behavior of data types.  #
 #####################################
 
-""" we want this script to PRINT  the string" Hello, World!
+""" we want this script to PRINT the string Hello, World
 """
 print("Hello, World!")
 
